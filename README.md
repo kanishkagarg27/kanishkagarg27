@@ -85,16 +85,7 @@ A personal portfolio showcasing projects, skills, achievements, and experience.
 
 **Tech Stack:** React, Tailwind CSS
 
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=kanishkagarg27&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkagarg27&layout=compact)
-
----
-
 ## 🤝 Connect With Me
 
-- LinkedIn: add-link-here
-- Portfolio: add-link-here
+- LinkedIn: www.linkedin.com/in/kanishkagarg7693
+- Portfolio: https://portfolio-nine-mauve-zs3j4lymay.vercel.app/
