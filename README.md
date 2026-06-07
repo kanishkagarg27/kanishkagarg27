@@ -41,49 +41,54 @@ I love building impactful web applications and solving real-world problems throu
 
 ## 🌟 Featured Projects
 
-### 💻 Codewize
-A developer-focused platform built to enhance coding productivity and learning.
+### 🛡️ Voice Sentinel
+An AI-powered Voice Fraud Detection Platform designed to identify synthetic speech and suspicious call behavior in real time.
 
-**Tech Stack:** JavaScript, HTML, CSS
+**Key Features**
+- Real-time synthetic voice detection
+- ML-driven audio feature extraction
+- Adaptive authentication workflows
+- Multi-factor risk scoring system
+- Low / Medium / High fraud classification
+
+**Tech Stack**
+Next.js • React.js • TypeScript • Python • Express.js • WebSockets • Firebase • Machine Learning
 
 ---
 
-### 🧠 Serenity
-An AI-powered mental wellness platform featuring mood tracking, analytics, and personalized insights.
+### 💻 Codewize
+An AI-powered developer platform that converts natural language prompts into production-ready React applications.
 
-**Features**
-- Mood Tracking
-- AI-based Mood Prediction
-- Progress Reports
-- User Dashboard
+**Key Features**
+- AI code generation
+- Real-time code rendering
+- Developer productivity optimization
+- Integrated payment workflows
 
-**Tech Stack:** HTML, CSS, JavaScript, ML
+**Tech Stack**
+React.js • Next.js • Convex • Tailwind CSS • Groq API • PayPal API
 
 ---
 
 ### 🏢 Facility Connect
-A platform that streamlines facility management and communication between users and administrators.
+A modern facility management platform enabling service requests, bookings, staff coordination, and analytics.
 
-**Features**
-- Issue Reporting
-- Request Management
-- User Authentication
-- Dashboard Analytics
+**Key Features**
+- Facility booking management
+- Gamification with rewards and badges
+- Real-time analytics dashboard
+- Live updates and notifications
 
-**Tech Stack:** TypeScript, Full Stack Development
+**Tech Stack**
+Next.js • TypeScript • Tailwind CSS • Socket.io • Recharts
 
 ---
 
-### 🌐 Portfolio Website
-A personal portfolio showcasing projects, skills, achievements, and experience.
+### 🌐 Portfolio
+A personal portfolio showcasing projects, achievements, technical skills, and experience.
 
-**Features**
-- Responsive Design
-- Project Showcase
-- Contact Section
-- Modern UI/UX
-
-**Tech Stack:** React, Tailwind CSS
+**Tech Stack**
+Next.js • React • Tailwind CSS
 
 ## 🤝 Connect With Me
 
