@@ -1,16 +1,100 @@
-## Hi there 👋
+# Hi 👋, I'm Kanishka Garg
 
-<!--
-**kanishkagarg27/kanishkagarg27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | AI Enthusiast | DTU ECE
 
-Here are some ideas to get you started:
+I love building impactful web applications and solving real-world problems through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech ECE at DTU
+- 💻 Learning Full Stack Development
+- 🤖 Exploring AI/ML
+- 🌱 Currently building real-world projects
+- 📫 Reach me: kanishkagarg2795@gmail.com
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+- Next.js
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- Supabase
+
+### Languages
+- C++
+- JavaScript
+- Python
+
+---
+
+## 🌟 Featured Projects
+
+### 💻 Codewize
+A developer-focused platform built to enhance coding productivity and learning.
+
+**Tech Stack:** JavaScript, HTML, CSS
+
+---
+
+### 🧠 Serenity
+An AI-powered mental wellness platform featuring mood tracking, analytics, and personalized insights.
+
+**Features**
+- Mood Tracking
+- AI-based Mood Prediction
+- Progress Reports
+- User Dashboard
+
+**Tech Stack:** HTML, CSS, JavaScript, ML
+
+---
+
+### 🏢 Facility Connect
+A platform that streamlines facility management and communication between users and administrators.
+
+**Features**
+- Issue Reporting
+- Request Management
+- User Authentication
+- Dashboard Analytics
+
+**Tech Stack:** TypeScript, Full Stack Development
+
+---
+
+### 🌐 Portfolio Website
+A personal portfolio showcasing projects, skills, achievements, and experience.
+
+**Features**
+- Responsive Design
+- Project Showcase
+- Contact Section
+- Modern UI/UX
+
+**Tech Stack:** React, Tailwind CSS
+
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=kanishkagarg27&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkagarg27&layout=compact)
+
+---
+
+## 🤝 Connect With Me
+
+- LinkedIn: add-link-here
+- Portfolio: add-link-here
