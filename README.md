@@ -56,18 +56,6 @@ Next.js • React.js • TypeScript • Python • Express.js • WebSockets •
 
 ---
 
-### 💻 Codewize
-An AI-powered developer platform that converts natural language prompts into production-ready React applications.
-
-**Key Features**
-- AI code generation
-- Real-time code rendering
-- Developer productivity optimization
-- Integrated payment workflows
-
-**Tech Stack**
-React.js • Next.js • Convex • Tailwind CSS • Groq API • PayPal API
-
 ---
 
 ### 🏢 Facility Connect
